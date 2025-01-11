@@ -92,10 +92,10 @@ hr{
     border: 0;
     font-weight: bold;
     padding: 10px 20px;
-    background: #1b1c1d;
+    background: #1b1c1d; /* #BF941F - 1b1c1d*/
     color: #ffffff;
     font-size: 15px;
-    border: 1px solid #2B87C8; /* #fcb10a*/
+    border: 1px solid #FFA500; /* #fcb10a - 2B87C8*/
     margin: 10px 0px;
 }
 
@@ -132,7 +132,7 @@ margin: 10px 0px;
 
 .new-card a {
     padding: 10px 0 px;
-    color: #2B87C8; /*#fcb10a*/
+    color: #FFA500; /*#fcb10a - 2B87C8 - FFA500*/
     text-transform: uppercase;
     display: inline-block;
     font-weight: bold;
